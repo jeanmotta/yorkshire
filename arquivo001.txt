@@ -1,1 +1,2 @@
-Arquivo que foi adicionado
+Arquivo que foi adicionado;
+Agora a segunda linha;
