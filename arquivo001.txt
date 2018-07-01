@@ -1,2 +1,3 @@
 Arquivo que foi adicionado;
 Agora a segunda linha;
+Terceira linha adicionada;
